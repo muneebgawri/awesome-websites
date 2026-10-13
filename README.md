@@ -9,6 +9,10 @@ Vocalremover separates the music from the vocals with a powerful AI algorithm
 
 https://vocalremover.org/
 
+Clean short speech recordings locally in your browser with QuietTake — playback comparison and WAV export, no signup or audio upload; up to 50 MB and five minutes per file.
+
+https://noiseremover.site/
+
 Remove background in a video
 
 https://www.unscreen.com/
