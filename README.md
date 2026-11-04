@@ -100,6 +100,10 @@ Task management Tool
 
 https://www.taskade.com/
 
+Dutch-language Netherlands experience checklist with search, browser-local selections and printing; free tool, with optional paid activity bookings
+
+https://bucketlist.nl/bucketlist-nederland/checklist
+
 
 For sharing photos across devices
 
